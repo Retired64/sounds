@@ -7,7 +7,7 @@ sleep 3
 yes | pkg update && yes | pkg upgrade -y
 pkg remove libglvnd
 pkg install git wget make python getconf zip apksigner clang binutils libglvnd-dev aapt which -y
-
+rm -rf $HOME/sm64ex-omm
 # Clonar el repositorio
 REPO_URL="https://github.com/robertkirkman/sm64ex-omm.git"
 REPO_DIR="$HOME/sm64ex-omm"
