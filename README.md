@@ -7,9 +7,12 @@
    - **Nombre del archivo**: `baserom.us.z64`
    - **Ubicación del archivo**: Debe estar en el almacenamiento interno de tu dispositivo Android, en la ruta `/sdcard/`.
    - **Importancia**: Es crucial que el archivo sea la versión de USA (NTSC) del juego y que tenga un tamaño de 8MB. Esta versión específica es necesaria para garantizar la compatibilidad y la correcta extracción de los assets.
-     termux beta nueva
+     
+     ### termux beta nueva
+     
    - https://f-droid.org/repo/com.termux_1020.apk
-     termux que uso:
+
+     ### termux que uso:
    - https://f-droid.org/repo/com.termux_118.apk
 
 2. **Permisos de Almacenamiento en Termux**:
