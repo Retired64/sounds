@@ -20,7 +20,7 @@
 2. **Permisos de Almacenamiento en Termux**:
    - Antes de ejecutar cualquier comando, debes otorgar permisos de almacenamiento a Termux para poder acceder a los archivos en tu dispositivo. Ejecuta el siguiente comando en Termux:
      ```sh
-     termux-setup-storage
+     yes | pkg install termux-am && termux-setup-storage
      ```
 
 ## Comenzar la Compilación
